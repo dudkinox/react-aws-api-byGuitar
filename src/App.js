@@ -23,7 +23,7 @@ function App() {
         <table>
           <tr>
             <th>ID</th>
-            <th>TIME</th>
+            <th>Date</th>
           </tr>
           {data.Items.map(function (data) {
             return (
