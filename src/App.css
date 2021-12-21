@@ -1,0 +1,22 @@
+body {
+  background-color: #232f3e;
+}
+label,
+button {
+  color: #ff9900;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 40px;
+}
+input {
+  color: #232f3e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+p,
+th {
+  color: #fff;
+  margin: 10px;
+}
